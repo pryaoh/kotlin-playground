@@ -9,6 +9,5 @@ public class JavaService {
     public void sayHello() {
         System.out.println("Java asys 'Hello World!'");
         LOGGER.info("Java asys 'Hello World!'");
-
     }
 }
